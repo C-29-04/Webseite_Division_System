@@ -94,7 +94,7 @@
             <button
               type="submit"
               disabled={isSubmitting}
-              class="w-full px-6 py-3 bg-white text-[--color-gray-darker] font-semibold rounded hover:bg-gray-100 transition-colors disabled:opacity-50 disabled:cursor-not-allowed"
+              class="w-full px-6 py-3 bg-white text-black font-semibold rounded hover:bg-gray-100 transition-colors disabled:opacity-50 disabled:cursor-not-allowed"
             >
               {isSubmitting ? 'Wird gesendet...' : 'Nachricht senden'}
             </button>

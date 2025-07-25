@@ -12,7 +12,7 @@
   }
 </script>
 
-<header class="fixed top-0 left-0 right-0 z-50 bg-[--color-gray-darker]/95 backdrop-blur-sm border-b border-gray-700/30">
+<header class="fixed top-0 left-0 right-0 z-50 bg-black/90 backdrop-blur-sm border-b border-gray-700/30">
   <nav class="container-custom">
     <div class="flex items-center justify-between h-16">
       <!-- Logo -->
@@ -50,7 +50,7 @@
     
     <!-- Mobile Menu -->
     {#if isMenuOpen}
-      <div class="md:hidden absolute top-16 left-0 right-0 bg-[--color-gray-darker]/95 backdrop-blur-sm border-b border-gray-700/30">
+      <div class="md:hidden absolute top-16 left-0 right-0 bg-black/90 backdrop-blur-sm border-b border-gray-700/30">
         <div class="px-4 py-4 space-y-3">
           <a 
             href="/" 

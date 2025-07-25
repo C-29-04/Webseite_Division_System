@@ -48,13 +48,13 @@
         <div class="flex flex-col sm:flex-row gap-4 animate-fade-in-delay-2">
           <a 
             href="/kontakt" 
-            class="inline-block px-8 py-3 bg-white text-[--color-gray-darker] font-semibold rounded hover:bg-gray-100 transition-colors text-center"
+            class="inline-block px-8 py-3 bg-white text-black font-semibold rounded hover:bg-gray-100 transition-colors text-center"
           >
             Jetzt anfragen
           </a>
           <a 
             href="#services" 
-            class="inline-block px-8 py-3 border-2 border-white text-white font-semibold rounded hover:bg-white hover:text-[--color-gray-darker] transition-colors text-center"
+            class="inline-block px-8 py-3 border-2 border-white text-white font-semibold rounded hover:bg-white hover:text-black transition-colors text-center"
           >
             Mehr erfahren
           </a>
@@ -119,7 +119,7 @@
     </p>
     <a 
       href="/kontakt" 
-      class="inline-block px-8 py-3 bg-white text-[--color-gray-darker] font-semibold rounded hover:bg-gray-100 transition-colors"
+      class="inline-block px-8 py-3 bg-white text-black font-semibold rounded hover:bg-gray-100 transition-colors"
     >
       Kontakt aufnehmen
     </a>
